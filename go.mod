@@ -4,6 +4,7 @@ go 1.18
 
 require github.com/sirupsen/logrus v1.7.1
 require github.com/crewjam/saml v0.4.0
+require github.com/rehacktive/caffeine v1.3.0
 
 require (
 	github.com/magefile/mage v1.10.0 // indirect
