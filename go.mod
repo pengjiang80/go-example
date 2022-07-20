@@ -2,7 +2,7 @@ module example.com/m
 
 go 1.18
 
-require github.com/sirupsen/logrus v1.7.0
+require github.com/sirupsen/logrus v1.6.0
 
 require (
 	github.com/magefile/mage v1.10.0 // indirect
