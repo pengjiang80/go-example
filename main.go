@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	aws_secret := "AKIAIMNOJVGFDXXXE4OA"
 	logrus.Info("hello")
 }
